@@ -6,3 +6,9 @@ To test the plugin, kindly, utilize the command below:
 * Windows: to be tested
 
 Feel free to reach me out for a test values for -D `QASE_*` variables.
+
+## The Plugin Reference
+
+Here is a handy [link](https://github.com/mbirintsev/qase-java/tree/feature/create-run-from-test-plan/qase-maven-plugin) to the plugin repository.
+
+Feel free to find more information about the plugin there, in the readme.
