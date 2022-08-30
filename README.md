@@ -1,5 +1,7 @@
 # Proof-of-Concept for `qase-maven-plugin`
 
+## How to run
+
 To test the plugin, kindly, utilize the command below:
 
 * Linux: `mvn qase:qaseTest -DQASE_API_TOKEN=your_token -DQASE_TEST_PLAN_ID=your_plan_id -DQASE_PROJECT_CODE=your_project_code -DQASE_URL="https//api.qase.io/v1"`
